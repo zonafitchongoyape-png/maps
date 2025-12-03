@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 Flask
 flask-cors
 pandas
 openpyxl
 folium
 gunicorn
+=======
+Flask
+flask-cors
+pandas
+openpyxl
+folium
+gunicorn
+>>>>>>> 23daa89e8d85c862033c1ce53cfb78bc799b7ae7
